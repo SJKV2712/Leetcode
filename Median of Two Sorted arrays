@@ -15,8 +15,7 @@ class Solution(object):
         
         return median
 
-# Example usage:
-# Instantiate the Solution class
+
 sol = Solution()
 
 # Example 1
